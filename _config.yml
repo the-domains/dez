@@ -1,7 +1,8 @@
 name: dez
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.5517074239905924
+title: Dez Futak
 cta:
   domain: null
   bucket: null
