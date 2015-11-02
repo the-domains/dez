@@ -1,6 +1,6 @@
 name: dez
 favicon: null
-layout_spectrum: 0.9122790212277323
+layout_spectrum: 0
 typography_spectrum: 0.5517074239905924
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.14284804766066372
+  brandStrength: 0.1875
   lightness: 0.3874835129827261
   saturation: 0.26688240352086723
   rhythmicContrast: 0.7901814675424248
