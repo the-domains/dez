@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dez Futak]]></title>
+        <description><![CDATA[Dez Futak]]></description>
+        <link>https://thegrid.ai/dez/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 21:42:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>afsdfsa\df</p>]]></description>
+            <link>https://thegrid.ai/dez/f6fba0a4-260c-43dd-93a6-5253abac71bd/index.html</link>
+            <guid isPermaLink="false">f6fba0a4-260c-43dd-93a6-5253abac71bd</guid>
+            <pubDate>Sun, 07 Feb 2016 21:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sdfs]]></title>
+            <description><![CDATA[<article><h1>sdfs</h1><p>dzxcvf</p></article>]]></description>
+            <link>https://thegrid.ai/dez/sdfs/index.html</link>
+            <guid isPermaLink="false">adc6e697-2c66-44cc-86aa-07c03dcb3bec</guid>
+            <pubDate>Mon, 02 Nov 2015 17:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DezFutak.com]]></title>
+            <description><![CDATA[<article><h1>DezFutak.com</h1><p>Welcome to DezFutak.com</p></article>]]></description>
+            <link>https://thegrid.ai/dez/dezfutakcom/index.html</link>
+            <guid isPermaLink="false">b1c12744-a043-4b0a-a026-c6393f1f378f</guid>
+            <pubDate>Mon, 02 Nov 2015 17:41:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
